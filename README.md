@@ -9,8 +9,7 @@
 
 Welcome to FutureLoad — your all-in-one social toolkit, built for the digital generation.
 
-![FutureLoad Screenshot](https://i.ibb.co/L5T1fVq/futureload-xyz-1.png)
-_^ Ganti gambar ini dengan screenshot tampilan utama website Anda. Anda bisa upload gambar ke GitHub issue dan salin linknya._
+![FutureLoad Screenshot](https://storage.googleapis.com/shesalon-hairstyle/futureload)
 
 ## ✨ About The Project
 
