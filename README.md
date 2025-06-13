@@ -97,6 +97,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📧 Contact
 
-[Your Name] - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - [your-email@example.com]
+[MickeyJiyestha] - [@simpingmickeyyy](https://twitter.com/simpingmickeyyy) - [mickeyjiyestha@gmail.com]
 
 Project Link: [https://github.com/[mickeyjiyestha]/[futureload]](https://github.com/[mickeyjiyestha]/[futureload])
